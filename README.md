@@ -1,7 +1,7 @@
 # HARmony ✨
 <a href="https://github.com/hoonably/HARmony"><img src="https://img.shields.io/static/v1?label=Project&message=GitHub&color=blue"></a>
 <a href="https://hoonably.github.io/HARmony"><img src="https://img.shields.io/static/v1?label=Project&message=PDF&color=red"></a>
-<a href="https://hoonably.github.io/HARmony/assets/HARmony.mp4"><img src="https://img.shields.io/badge/Project-Video-2ea44f?logo=video&logoColor=white"></a>
+<a href="https://github.com/user-attachments/assets/ca8921c8-d845-445a-a1a8-feb108677013"><img src="https://img.shields.io/badge/Project-Video-2ea44f?logo=video&logoColor=white"></a>
 
 > 🥇 Best Award - Ranked 1st in the course.
 
